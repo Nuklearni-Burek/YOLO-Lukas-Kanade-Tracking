@@ -102,18 +102,6 @@ Then run:
 python detect_track.py
 ```
 
-## Project Structure
-
-```text
-Monochrome-IR-YOLO-LK-Pedestrian-Tracking/
-│
-├── detect_track.py
-├── version1_100ep.pt
-├── nearir_frames/
-├── tracked_frames/
-└── README.md
-```
-
 ## Summary
 
 **YOLO detects; Lucas-Kanade temporarily tracks.**
