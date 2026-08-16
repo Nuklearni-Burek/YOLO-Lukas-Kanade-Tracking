@@ -30,6 +30,10 @@ Monochrome IR Frame
 
 YOLO always has priority over LK. Optical flow cannot create new pedestrian tracks independently, which helps prevent false bounding boxes.
 
+![Detection exmaple](test/frame_000061.png)
+![Detection example](test/frame_000288.png)
+
+
 ## Model Performance
 
 | Metric | Score |
